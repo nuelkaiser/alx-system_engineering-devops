@@ -1,1 +1,1 @@
-fist script made to switch user
+1. script to switch users
